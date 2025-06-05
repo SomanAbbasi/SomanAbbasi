@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi there 👋 I'm [Your Name]  
+  ### Hi there 👋 I'm Soman Abbasi  
   **Software Developer | Open-Source Enthusiast | Tech Explorer**  
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soman-abbasi-a1820b344/) 
