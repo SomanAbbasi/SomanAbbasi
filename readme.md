@@ -1,38 +1,79 @@
 <div align="center">
 
-  ### Hi there 👋 I'm Soman Abbasi  
-  **Software Developer | Open-Source Enthusiast | Tech Explorer**  
+## 👋 Hi, I'm Soman Abbasi  
+### 🎯 Software Developer | Open-Source Enthusiast | Tech Explorer  
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soman-abbasi-a1820b344/) 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+Flask+%7C+Tkinter;Web+Dev+with+Flask+%7C+Bootstrap+%7C+SQL+%7C+HTML+%7C+CSS;Passionate+about+clean+code+and+UI/UX" alt="Typing SVG" />
+</p>
 
-  ---  
+<!-- Profile Insights (non-clickable) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SomanAbbasi&color=blueviolet&style=flat-square" alt="Visitor Count" />
 
-  ### 🏆 GitHub Trophies  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=2&column=4)](https://github.com/SomanAbbasi/github-profile-trophy)  
+</p>
 
-  ---  
+<!-- Contact Links -->
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/soman-abbasi-a1820b344/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SomanAbbasi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mssabbasi306@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
 
-  ### ⚡ GitHub Stats  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=radical&hide_border=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=radical&hide_border=true)  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=SomanAbbasi&theme=radical&hide_border=true)  
+---
 
-  ---  
+## 🛠️ Tech Stack
 
-  ### 🛠️ Tech Stack  
-  ![C++](https://img.shields.io/badge/-cpp-F7DF1E?style=flat-square&logo=cpp&logoColor=black)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  ![Github](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
+ 
 
-  ---  
+</div>
 
-  ### 🔥 Recent Activity  
-  <!-- GitHub Readme Activity Graph (Replace with your username) -->  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SomanAbbasi&theme=react-dark&hide_border=true&area=true)  
+---
 
-  ---  
+## 📊 GitHub Stats
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SomanAbbasi&color=blueviolet&style=flat-square)  
-  ![GitHub Followers](https://img.shields.io/github/followers/SomanAbbasi?label=Follow%20Me&style=social)  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=SomanAbbasi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SomanAbbasi&theme=onedark&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🔥 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomanAbbasi&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
 
 </div>
