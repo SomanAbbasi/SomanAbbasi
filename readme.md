@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+Flask+%7C+Tkinter;Web+Dev+with+Flask+%7C+Bootstrap+%7C+SQL+%7C+HTML+%7C+CSS;Passionate+about+clean+code+and+UI/UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+Flask+%7C+Tkinter;Web+Dev+with+Flask+%7C+Bootstrap+%7C+SQL+%7C+HTML+%7C+CSS;" alt="Typing SVG" />
 </p>
 
 <!-- Profile Insights (non-clickable) -->
