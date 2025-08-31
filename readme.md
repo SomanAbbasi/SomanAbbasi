@@ -5,7 +5,7 @@
 
 <!-- Typing SVG with fallback -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+Flask+%7C+Tkinter;Web+Dev:+Flask+%7C+Bootstrap+%7C+SQL+%7C+HTML+%7C+CSS" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+C%2B%2B+%7C+Flask+%7C+Tkinter;Web+Dev:+Flask+%7C+Bootstrap+%7C+SQL+%7C+HTML+%7C+CSS" alt="Typing Animation" />
 </p>
 
 <!-- Profile Views (Non-Refreshing) -->
@@ -17,11 +17,11 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/soman-abbasi-a1820b344/" target="_blank">
+  <a href="https://www.linkedin.com/in/soman-abbasi-a1820b344/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SomanAbbasi" target="_blank">
+  <a href="https://github.com/SomanAbbasi" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
@@ -34,26 +34,18 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,flask,sqlite,bootstrap,html,css" alt="Tech Stack" />
+  <!-- extended list including JS, React, Electron, MySQL, FastAPI -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,flask,sqlite,bootstrap,html,css,js,react,electron,mysql,fastapi" alt="Tech Stack" />
 </p>
 
 ---
 
+
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/SomanAbbasi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    <img height="180em" src="https://streak-stats.demolab.com/?user=SomanAbbasi&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SomanAbbasi&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
