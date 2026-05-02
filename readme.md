@@ -20,48 +20,57 @@
   <a href="https://github.com/SomanAbbasi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.somanabbasi.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=SomanAbbasi&style=for-the-badge&color=7C8CF8&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+---
+
+## About Me
+
+I'm a Software Developer focused on building real-world solutions through clean, maintainable code. I believe that truly understanding a problem is already half the solution. I work across the full stack from crafting responsive UIs to designing scalable backend systems and integrating AI into production applications.
+
+**[Visit my portfolio to see my work and projects &rarr;](https://www.somanabbasi.tech/)**
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts" />
 </p>
 
 ### Frontend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,electron" />
 </p>
 
 ### Backend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,dotnet" />
 </p>
 
 ### Databases
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Convex-EE4B2B?style=for-the-badge&logo=convex&logoColor=white" />
 </p>
 
 ### Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,redis,graphql,linux,vscode" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/SEO-Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
