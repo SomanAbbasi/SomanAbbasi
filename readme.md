@@ -1,152 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Soman%20Abbasi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer&descAlignY=58&descSize=18&descColor=a0a8c8"/>
+# Soman Abbasi
 
-<br/>
+**Full-Stack Developer | AI Engineer**
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=7C8CF8&center=true&vCenter=true&width=900&lines=Full-Stack+and+AI+Engineer;Python+%7C+C%2B%2B+%7C+C%23+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Tailwind+CSS;Node.js+%7C+Express.js+%7C+FastAPI+%7C+Flask;LangChain+%7C+LangGraph+%7C+RAG+%7C+AI+Agents;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Supabase;FAISS+%7C+ChromaDB+%7C+Pinecone+%7C+Docker;Building+Scalable+Applications+and+Intelligent+Systems"/>
-</p>
+[Email](mailto:contact.somanabbasi@gmail.com) · [Portfolio](https://www.somanabbasi.tech/) · [LinkedIn](https://www.linkedin.com/in/soman-abbasi-a1820b344/) · [GitHub](https://github.com/SomanAbbasi)
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/soman-abbasi-a1820b344/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:contact.somanabbasi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SomanAbbasi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.somanabbasi.tech">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=SomanAbbasi&style=for-the-badge&color=7C8CF8&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+scalable+apps+and+AI+systems" alt="Building scalable apps and AI systems" />
 
 </div>
 
 ---
 
-# About Me
+## About
 
-Computer Science student at PUCIT focused on Full-Stack Development and AI Engineering.
+Computer Science student at **PUCIT** specializing in Full-Stack Development and AI Engineering. I build scalable web applications, AI agents, RAG systems, and automation workflows.
 
-I build scalable web applications, APIs, AI integrations, retrieval-based systems, and intelligent workflows. My work spans frontend, backend, databases, and production-oriented software development.
+I work across frontend, backend, databases, and production-oriented software — with a strong foundation in algorithms and system design.
 
-Currently exploring opportunities in Software Engineering, Full-Stack Development, and Intelligent Systems.
-
-Portfolio:
-https://www.somanabbasi.tech
+I am looking for roles in **Full-Stack Development** and **AI Engineering**. More of my work is on [somanabbasi.tech](https://www.somanabbasi.tech/).
 
 ---
 
-# Tech Stack
+## Experience
 
-## Languages
+### Full-Stack Developer Intern (AI Integrations)
+**SKAFS International (Pvt) Ltd** · June 2026 – Present
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts"/>
-</p>
+- Built full-stack applications with AI-powered workflows, including LLM chatbots, RAG pipelines, and multi-agent systems for production use.
+- Developed and deployed end-to-end AI agent systems with LangChain and LangGraph, including memory, tool use, and validation layers.
 
-## Frontend
+### Full-Stack Developer — Freelance
+**2025**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
-</p>
-
-## AI and Intelligent Systems
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-302b63?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-24243e?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-7C8CF8?style=for-the-badge"/>
-
-</p>
-
-## Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Convex-EE4B2B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-
-</p>
-
-## Vector and Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FAISS-24243e?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-302b63?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-7C8CF8?style=for-the-badge"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma"/>
-</p>
+- Delivered MERN and Next.js client projects, including a food ordering platform and a healthcare management app with authentication and role-based access.
+- Collaborated on a music streaming application (Tswangi Music App), connecting the frontend to backend APIs and services.
 
 ---
 
-# GitHub Stats
+## Featured Projects
 
-<p align="center">
+### WhatsApp Agent — Ava
+**GitHub:** [SomanAbbasi/Whatsapp-Agent](https://github.com/SomanAbbasi/Whatsapp-Agent)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=tokyonight"/>
+- WhatsApp AI companion powered by LangGraph and Groq (Llama 3.3 70B), integrated with the Meta WhatsApp Cloud API for natural, persona-driven replies.
+- Short-term memory with SQLite and long-term per-user memory with Qdrant, plus image generation, image understanding, and voice transcription/replies.
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanAbbasi&theme=tokyonight"/>
+**Tech:** `Python` · `LangGraph` · `Groq` · `WhatsApp Cloud API` · `Qdrant` · `Hugging Face` · `ElevenLabs` · `FastAPI` · `SQLite`
 
-</p>
+### DentalAgent — AI Dental Receptionist
+**GitHub:** [SomanAbbasi/Dental-Agent](https://github.com/SomanAbbasi/Dental-Agent)
 
-<p align="center">
+- Multilingual AI receptionist (English, Urdu, Punjabi, Saraiki) that books dental appointments through natural conversation over REST and WebSocket APIs.
+- Intelligent date/time parsing and validation, RAG over clinic policy documents with FAISS, and safety guardrails against prompt injection.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=tokyonight"/>
+**Tech:** `Python` · `FastAPI` · `LangGraph` · `OpenRouter` · `FAISS` · `WebSocket` · `RAG`
 
-</p>
+### Slack Clone
+**GitHub:** [SomanAbbasi/Slack-Lite](https://github.com/SomanAbbasi/Slack-Lite)
+
+- Real-time messaging platform with workspace and channel architecture, role-based permissions, live synchronization, and a responsive UI.
+
+**Tech:** `Next.js` · `TypeScript` · `Convex`
+
+More projects and case studies: [somanabbasi.tech](https://www.somanabbasi.tech/)
 
 ---
 
-# Contribution Graph
+## Technical Skills
 
-<p align="center">
+**Languages:** Python, C/C++, C#, JavaScript, TypeScript
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomanAbbasi&bg_color=0d1117&color=7C8CF8&line=7C8CF8&point=ffffff&hide_border=true"/>
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
 
-</p>
+**Backend:** Node.js, Express.js, Flask, FastAPI, REST APIs
+
+**AI / ML:** LangChain, LangGraph, n8n, OpenAI, Gemini, Groq, Hugging Face, RAG, AI Agents, Prompt Engineering, MCP
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Convex
+
+**Vector & Infra:** FAISS, ChromaDB, Pinecone
+
+**Tools:** Docker, Git, GitHub, Linux, Postman
+
+---
+
+## Competitive Programming
+
+ICPC Regionalist
+
+---
+
+## Education
+
+**PUCIT, University of the Punjab** — Lahore, Pakistan  
+Bachelor of Science in Computer Science · Expected 2028
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/SomanAbbasi">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+</a>
+<a href="https://github.com/SomanAbbasi">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanAbbasi&theme=dark&hide_border=true&background=00000000" alt="GitHub streak" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+Open to Full-Stack and AI Engineering opportunities.
+
+[Email](mailto:contact.somanabbasi@gmail.com) · [Portfolio](https://www.somanabbasi.tech/) · [LinkedIn](https://www.linkedin.com/in/soman-abbasi-a1820b344/)
 
 </div>
