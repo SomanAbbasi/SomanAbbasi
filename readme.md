@@ -102,16 +102,17 @@ Bachelor of Science in Computer Science · Expected 2028
 
 <div align="center">
 
-<a href="https://github.com/SomanAbbasi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SomanAbbasi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-</a>
-<a href="https://github.com/SomanAbbasi">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanAbbasi&theme=dark&hide_border=true&background=00000000" alt="GitHub streak" />
-</a>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanAbbasi&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 <br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomanAbbasi&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SomanAbbasi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+
+<br/>
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
 
 </div>
 
