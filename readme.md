@@ -25,7 +25,7 @@ I am looking for roles in **Full-Stack Development** and **AI Engineering**. Mor
 ## Experience
 
 ### Full-Stack Developer Intern (AI Integrations)
-**SKAFS International (Pvt) Ltd** · June 2026 – Present
+**SKAFS International (Pvt) Ltd** · June 2026 – August 2026
 
 - Built full-stack applications with AI-powered workflows, including LLM chatbots, RAG pipelines, and multi-agent systems for production use.
 - Developed and deployed end-to-end AI agent systems with LangChain and LangGraph, including memory, tool use, and validation layers.
