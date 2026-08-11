@@ -40,6 +40,14 @@ I am looking for roles in **Full-Stack Development** and **AI Engineering**. Mor
 
 ## Featured Projects
 
+### CallingAgent
+**GitHub:** [SomanAbbasi/CallingAgent](https://github.com/SomanAbbasi/CallingAgent)
+
+- Voice-based hospital appointment assistant for a small clinic with safe booking boundaries, live SQLite availability, and Asterisk-powered call handling.
+- Built around LangGraph and Groq for structured agent workflows, with FastAPI for the backend layer.
+
+**Tech:** `Python` · `uv` · `SQLite` · `Asterisk` · `LangGraph` · `Groq` · `FastAPI`
+
 ### WhatsApp Agent — Ava
 **GitHub:** [SomanAbbasi/Whatsapp-Agent](https://github.com/SomanAbbasi/Whatsapp-Agent)
 
@@ -102,7 +110,7 @@ Bachelor of Science in Computer Science · Expected 2028
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SomanAbbasi&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=SomanAbbasi&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 <br/>
 <br/>
