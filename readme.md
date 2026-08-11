@@ -110,7 +110,7 @@ Bachelor of Science in Computer Science · Expected 2028
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=SomanAbbasi&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SomanAbbasi&theme=dark&hide_border=true&background=0D1117&type=svg)](https://git.io/streak-stats)
 
 <br/>
 <br/>
